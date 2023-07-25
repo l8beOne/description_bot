@@ -1,5 +1,5 @@
 # Python Telegram DescriptionBot
-<h1 align="center"><img src="https://tophallclub.ru wp-content/uploads/d/5/0/d50bc3352ffaa7e92f952871e50c592e.gif" height="300" width="400"/></h1>
+<h1 align="center"><img src="https://tophallclub.ru/wp-content/uploads/d/5/0/d50bc3352ffaa7e92f952871e50c592e.gif" height="300" width="400"/></h1>
 
 ## Project Description:
 I wrote a Telegram bot that can tell information about me and show my projects on GitHub.
@@ -16,7 +16,7 @@ git clone git@github.com:l8beOne/description_bot.git
 Go to the folder with the bot.
 
 ```
-cd homework_bot
+cd description_bot
 ```
 
 Install and activate the virtual environment:
