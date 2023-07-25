@@ -23,7 +23,7 @@ Install and activate the virtual environment:
 
 ```
 python -m venv venv
-source venv/Scripts/activate
+source venv/bin/activate
 ```
 
 Install dependencies from requirements.txt file:
@@ -35,5 +35,5 @@ pip install -r requirements.txt
 Run the project:
 
 ```
-python homework.py
+python mybot.py
 ```
